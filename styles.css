@@ -1,10 +1,10 @@
 main{
 	width:150px;
 	height:150px;
-	background-color:black (#000000);
+	background-color:rgb(0, 0, 0);
 }
 p{
-	color:white (#ffffff);
+	color:rgb(255, 255, 255);
 	Left-Margin:32px;
 	Paddingonallsides:10px;
 	
